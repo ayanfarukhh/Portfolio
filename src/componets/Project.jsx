@@ -9,8 +9,8 @@ const Project = () => {
       description:
         'A fast, responsive, and minimalist developer portfolio showcasing technical projects, full stack skills, and interactive learning guides.',
       techStack: ['React', 'Tailwind CSS', 'JavaScript'],
-      githubLink: 'https://github.com/itszaidsidd/Portfolio',
-      liveLink: 'https://itszaidsidd.vercel.app/',
+      githubLink: 'https://github.com/ayanfarukhh/Portfolio',
+      liveLink: 'https://ayanfarukh.vercel.app/',
       category: 'Frontend Project',
     },
     {
